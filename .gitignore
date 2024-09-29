@@ -1,0 +1,5 @@
+db
+tmp
+go.mod
+go.sum
+.air.toml
