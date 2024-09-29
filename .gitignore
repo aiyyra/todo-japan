@@ -3,3 +3,4 @@ tmp
 go.mod
 go.sum
 .air.toml
+.env
